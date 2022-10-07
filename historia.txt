@@ -2,6 +2,6 @@ Ok, esto es un archivo de texto plano para probar git Bash.
 
 Aprendiendo git y github.
 
-YES :D.
+YEAH :D.
 
 Ahora entiendo un poco mas sobre la terminal de comandos.
