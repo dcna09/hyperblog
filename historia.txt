@@ -1,9 +1,5 @@
-Ok, esto es un archivo de texto plano para probar git Bash.
+Ok, esto es un archivo de texto plano para probar git.
 
-Aprendiendo git y github.
+Aqui se pueden ver las posibilidades de esta herramienta.
 
-YEAH :D.
-
-Ahora entiendo un poco mas sobre la terminal de comandos.
-
-Me parece muy interesante esta forma de trabajar.
+YES :D.
