@@ -10,5 +10,6 @@ Un blog increible para el curso de [Git y Github](https://platzi.com/cursos/git-
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
+* Creado por el increible Diego Camilo Navarro
 
 Y como un amable recordatori o **Este read.me es un chiste**. Diseñado para elk ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso")
